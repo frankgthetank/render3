@@ -1,0 +1,8 @@
+dash
+dash-leaflet
+geopandas
+gunicorn
+shapely
+pyproj
+fiona
+
